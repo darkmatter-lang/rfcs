@@ -1,0 +1,7 @@
+# Rubbish
+bin/
+*.DS_Store
+Thumbs.db
+*.bin
+*.log
+*.o
